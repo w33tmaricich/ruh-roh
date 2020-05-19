@@ -1,0 +1,9 @@
+build.sh
+main.ko
+main.mod
+main.mod.c
+main.mod.o
+main.o
+modules.order
+Module.symvers
+*.cmd
